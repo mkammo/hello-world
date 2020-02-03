@@ -1,3 +1,4 @@
 # hello-world
 First project ever.  Learning GitHub
-just trying to learn GitHub
+my name is Matt
+I'm the SI2 team lead
